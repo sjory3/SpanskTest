@@ -1,0 +1,7 @@
+C:\Users\Daddy-o\source\repos\SpanskTest\SpanskTest\bin\Debug\SpanskTest.exe.config
+C:\Users\Daddy-o\source\repos\SpanskTest\SpanskTest\bin\Debug\SpanskTest.exe
+C:\Users\Daddy-o\source\repos\SpanskTest\SpanskTest\bin\Debug\SpanskTest.pdb
+C:\Users\Daddy-o\source\repos\SpanskTest\SpanskTest\obj\Debug\SpanskTest.csprojAssemblyReference.cache
+C:\Users\Daddy-o\source\repos\SpanskTest\SpanskTest\obj\Debug\SpanskTest.csproj.CoreCompileInputs.cache
+C:\Users\Daddy-o\source\repos\SpanskTest\SpanskTest\obj\Debug\SpanskTest.exe
+C:\Users\Daddy-o\source\repos\SpanskTest\SpanskTest\obj\Debug\SpanskTest.pdb
